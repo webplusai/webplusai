@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Full-Stack and AI developer</h3>
+<h1 align="center">A passionate Full-Stack and AI developer</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=webplusai&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
