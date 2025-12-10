@@ -16,6 +16,14 @@
 
 ---
 
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,nestjs,express,tailwind,bootstrap,git,github,linux,nginx,docker,postgres,mysql,mongodb,aws" /></a>
+</p>
+
+---
+
 ### ⭐ Favorite Projects
 
 - 🔹 [Virtualizedin](https://virtualizedin.com/)
