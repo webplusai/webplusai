@@ -65,9 +65,9 @@
 
 ### ⭐ Favorite Projects
 
-- 🔹 [Project 1](https://github.com/webplusai/your-project-1)
-- 🔹 [Project 2](https://github.com/webplusai/your-project-2)
-- 🔹 [Project 3](https://github.com/webplusai/your-project-3)
+- 🔹 [Virtualizedin](https://virtualizedin.com/)
+- 🔹 [Young Heroes](https://youngheroes.com)
+- 🔹 [Typeset](https://www.typeset.com/)
 
 ---
 
